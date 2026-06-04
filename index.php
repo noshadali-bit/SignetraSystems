@@ -8,7 +8,7 @@
        <div class="bnrslider">
          
          <div class="slider-txt">
-           <h1>Hello hi Execution, Re-engineered</h1>
+           <h1>Hello hey Execution, Re-engineered</h1>
            <p>A unified execution platform, aligning advisory, foresight and execution intelligence to bring structure, clarity and control to complex programmes.</p>
            <div class="flx-btn">
              <a class="green-btn" href="#capabilities">Explore the Platform</a>
