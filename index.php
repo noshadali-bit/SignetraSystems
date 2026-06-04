@@ -9,7 +9,7 @@
          
          <div class="slider-txt">
            <h1>Execution, Re-engineered</h1>
-           <p>A unified execution platform, aligning advisory, foresight and execution intelligence to bring structure, clarity and control to complex programmes.</p>
+           <p>A unified execution platform, aligning advisory, foresight and execution intelligence to bring structure, clarity and control to complex programmes</p>
            <div class="flx-btn">
              <a class="green-btn" href="#capabilities">Explore the Platform</a>
              <a class="white-btn" href="get-in-touch.php">Start a Conversation</a>
@@ -37,7 +37,7 @@
             <div class="about-blk">
               <b class="txt-b">WHAT SIGNETRA STANDS FOR</b>
               <h3>A World Where Execution is no Longer Uncertain</h3>
-              <p>Where execution is understood early, decisions are made with clarity, and outcomes are delivered with precision.</p>
+              <p>Where execution is understood early, decisions are made with clarity, and outcomes are delivered with precision</p>
             </div>
           </div>
           <div class="col-md-6">
